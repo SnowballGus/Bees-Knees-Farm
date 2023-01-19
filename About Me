@@ -10,7 +10,7 @@
                 color: rgb(6, 40, 114);
                 font-family: Fantasy;
             }
-            
+        </style>
         </head>
         <body>   
             <title><u>About Me:</u></title>
